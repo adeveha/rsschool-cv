@@ -7,3 +7,4 @@
 * - Skills \* -
 * - Experience \* -
 * - English level B2 \* -
+* - What i want to learn
