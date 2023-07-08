@@ -1,1 +1,1 @@
-# rsschool-cv
+https://adeveha.github.io/rsschool-cv/
